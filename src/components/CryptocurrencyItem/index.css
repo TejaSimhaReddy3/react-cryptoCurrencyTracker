@@ -1,0 +1,22 @@
+.currencyList {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.coinTypeDetails {
+  display: flex;
+  align-items: center;
+}
+.currencyLogo {
+  width: 10%;
+}
+.currencyName {
+  margin-left: 13px;
+  padding-right: 15px;
+}
+.headerFlexItems {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+}
